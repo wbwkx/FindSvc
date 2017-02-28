@@ -3,4 +3,4 @@ A simple script which could highlights arm-systemcall based on idapython.Tiny to
 
 # HowtoUse
 Just load it in Ida pro.<br>
-Another option,copy source code to the script panel in Ida pro and enter.<br>If it works,have fun :)
+Another option, copy source code to the script panel in Ida pro and enter.<br>If it works,have fun :)
